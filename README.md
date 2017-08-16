@@ -1,2 +1,2 @@
 # vue-ex
-小练vue
+小练 vue
