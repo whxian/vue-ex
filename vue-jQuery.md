@@ -1,4 +1,4 @@
-# Vue项目引入jQuery #
+# 基于vue-cli搭建的Vue项目引入jQuery #
 ---
 
 ### 1. 安装 在终端输入： ###
