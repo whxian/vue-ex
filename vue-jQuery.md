@@ -36,7 +36,7 @@ plugins: [
   })
 ```
 
-### 4. 在入口文件App.vue中引入JQ ###
+### 4. 在App.vue中引入JQ ###
 ```
 //引入jQuery
 import $ from 'jquery';
